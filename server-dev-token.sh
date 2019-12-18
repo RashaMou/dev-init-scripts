@@ -1,3 +1,5 @@
+#!/bin/bash 
+
 npm init &&
 npm i bcryptjs cors express helmet jsonwebtoken knex sqlite3 && 
 npm i nodemon --save-dev &&
