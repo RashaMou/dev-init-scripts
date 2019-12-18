@@ -9,4 +9,5 @@ mkdir database &&
 touch database/dbConfig.js &&
 mkdir users &&
 touch users/users-model.js users/users-router.js &&
+touch index.js &&
 knex init
