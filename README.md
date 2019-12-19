@@ -22,9 +22,9 @@ kill-port=> Sometimes during development npm produces a port in use error, this 
 
 snippets.json=> These are some snippets I have created for VS Code as boiler plates and can be used to add content to the files mentioned above that are empty. 
 
-#How to Use:
+# How to Use:
 
-Presently the only way to use the scripts is to have them in the working directory of your development project then run the script.
+Presently the only way to use the scripts is to have them in the working directory of your development project then run the script. The shell scripts are not executable to run just type: bash script-name.sh
 
 # TODO:
 
@@ -39,3 +39,6 @@ To contribute, just fork this repository and submit a pull request with your con
 If creating an original script not yet in this repository please add a comment at the bottom of the script in the form: #Creator/Contributor: github-username:Real-Name(optional). 
 
 If making some changes to an existing script please comment your changes and add your name in a comment at the bottom in the form: #Contributor: github-username:Real-Name(optional).
+
+# Disclaimer
+By using any of these scripts you assume all responsibility for any damage caused to your system as a result of running any script found herein.
