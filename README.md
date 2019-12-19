@@ -18,7 +18,9 @@ database/dbConfig.js
 users/users-model.js
 users/users-router.js
 
-kill-port=> Sometimes during development npm produces a port in use error, this script will kill whatever process is running on that port to free it up.
+kill-port=> Sometimes during development npm produces a port in use error, this script will kill whatever process is running on that port to free it up. Uses npm for the init scripts.
+
+snippets.json=> These are some snippets I have created for VS Code as boiler plates and can be used to add content to the files mentioned above that are empty. 
 
 #How to Use:
 
@@ -28,3 +30,12 @@ Presently the only way to use the scripts is to have them in the working directo
 
 1. Create a boilerplate for the empty files created by server-dev-token.sh
 2. Create a script to place the helper scripts in the system environment
+
+
+# How to contribute
+
+To contribute, just fork this repository and submit a pull request with your contribution. 
+
+If creating an original script not yet in this repository please add a comment at the bottom of the script in the form: #Creator/Contributor: github-username:Real-Name(optional). 
+
+If making some changes to an existing script please comment your changes and add your name in a comment at the bottom in the form: #Contributor: github-username:Real-Name(optional).

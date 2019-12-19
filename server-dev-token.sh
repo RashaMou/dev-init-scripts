@@ -13,3 +13,5 @@ mkdir users &&
 touch users/users-model.js users/users-router.js &&
 touch index.js &&
 knex init
+
+#Creator/Contributor: ikeman32:David Isakson 
